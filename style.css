@@ -97,19 +97,25 @@ button:hover span{width: 100%;}
 
 button:hover{ border: none; }
 
-/**Responsiveness**/
+
+**Responsiveness**/
 
 @media only screen and (max-width: 600px) {
 
 .navbar li {display: block;}
 
-
 .navbar li {padding-top: 20px;}
 
+ul { margin-left: 50px; }
+
 .content{
-	 width: 100%;
+	width: 100%;
     position: absolute;
     bottom: 30%;
 }
+
+.banner{
+	height: 150vh;
+	width: 100%;
 
 }
