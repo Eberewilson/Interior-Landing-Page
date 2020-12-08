@@ -105,9 +105,9 @@ button:hover{ border: none; }
 .navbar li {display: block;}
 
 
-.navbar li {margin-top: 20px;}
+.navbar li {padding-top: 20px;}
 
-ul { margin-left: 80px; }
+ul { margin-left: 70px; }
 
 .content{
 	width: 100%;
