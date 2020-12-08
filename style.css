@@ -96,3 +96,20 @@ span{
 button:hover span{width: 100%;}
 
 button:hover{ border: none; }
+
+/**Responsiveness**/
+
+@media only screen and (max-width: 600px) {
+
+.navbar li {display: block;}
+
+
+.navbar li {padding-top: 20px;}
+
+.content{
+	 width: 100%;
+    position: absolute;
+    bottom: 30%;
+}
+
+}
